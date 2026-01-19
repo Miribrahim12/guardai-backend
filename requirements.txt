@@ -1,4 +1,5 @@
 fastapi
 uvicorn
-presidio-analyzer
-spacy
+pydantic
+transformers
+torch
